@@ -1,2 +1,2 @@
 # hello-theni
-learning project
+Pathu learning project
